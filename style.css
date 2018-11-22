@@ -1441,7 +1441,7 @@ input {
     -ms-transform: matrix( 0.5,0,0,0.5,0,0);
     position: absolute;
     left: 58px;
-    top: 227%;
+    top: 230%;
     width: auto;
     height: auto;
   }
@@ -1461,8 +1461,8 @@ input {
     -webkit-transform: matrix( 0.5,0,0,0.5,0,0);
     -ms-transform: matrix( 0.5,0,0,0.5,0,0);
     position: absolute;
-    left: 8px;
-    top: 199%;
+    left: 12px;
+    top: 202%;
     width: auto;
     height: auto;
   }
