@@ -1432,7 +1432,7 @@ input {
     height: 81px;
   }
   .speaker2_text {
-    font-size: 26px;
+    font-size: 7vw;
     font-family: 'Open Sans', sans-serif;
     color: rgb(88, 89, 91);
     line-height: 1.211;
@@ -1441,7 +1441,7 @@ input {
     -ms-transform: matrix( 0.5,0,0,0.5,0,0);
     position: absolute;
     left: 58px;
-    top: 225%;
+    top: 227%;
     width: auto;
     height: auto;
   }
@@ -1453,7 +1453,7 @@ input {
     height: 81px;
   }
   .speaker1_text {
-    font-size: 26px;
+    font-size: 7vw;
     font-family: 'Open Sans', sans-serif;
     color: rgb(88, 89, 91);
     line-height: 1.211;
@@ -1461,8 +1461,8 @@ input {
     -webkit-transform: matrix( 0.5,0,0,0.5,0,0);
     -ms-transform: matrix( 0.5,0,0,0.5,0,0);
     position: absolute;
-    left: 5px;
-    top: 197%;
+    left: 8px;
+    top: 199%;
     width: auto;
     height: auto;
   }
