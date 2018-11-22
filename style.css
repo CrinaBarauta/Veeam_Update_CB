@@ -1461,7 +1461,7 @@ input {
     -webkit-transform: matrix( 0.5,0,0,0.5,0,0);
     -ms-transform: matrix( 0.5,0,0,0.5,0,0);
     position: absolute;
-    left: -2%;
+    left: 2%;
     top: 200%;
     width: auto;
     height: auto;
