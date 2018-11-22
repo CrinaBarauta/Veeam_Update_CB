@@ -1440,8 +1440,8 @@ input {
     -webkit-transform: matrix( 0.5,0,0,0.5,0,0);
     -ms-transform: matrix( 0.5,0,0,0.5,0,0);
     position: absolute;
-    left: 58px;
-    top: 230%;
+    left: 16%;
+    top: 228%;
     width: auto;
     height: auto;
   }
@@ -1461,8 +1461,8 @@ input {
     -webkit-transform: matrix( 0.5,0,0,0.5,0,0);
     -ms-transform: matrix( 0.5,0,0,0.5,0,0);
     position: absolute;
-    left: 20px;
-    top: 210%;
+    left: 4%;
+    top: 200%;
     width: auto;
     height: auto;
   }
