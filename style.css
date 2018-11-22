@@ -1440,7 +1440,7 @@ input {
     -webkit-transform: matrix( 0.5,0,0,0.5,0,0);
     -ms-transform: matrix( 0.5,0,0,0.5,0,0);
     position: absolute;
-    left: 20%;
+    left: 30%;
     top: 228%;
     width: auto;
     height: auto;
